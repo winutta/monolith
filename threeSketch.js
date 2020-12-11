@@ -53,7 +53,7 @@ function main(){
 
 	var textureLoader = new THREE.TextureLoader(manager);
 
-	var normalGold = textureLoader.load("materials/gold_normal.png");
+	var normalGold = textureLoader.load("materials/gold_normal_1k.png");
 
 	var loader = new THREE.CubeTextureLoader(manager);
 
